@@ -1,5 +1,5 @@
 <template>
-  <Home/>
+  <Home class="text-center"/>
 </template>
 
 <script>
