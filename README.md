@@ -2,7 +2,7 @@
 
 This was a project that I started, but never quite got around to finishing. It was intended as an online coding platform for a new programming language that I was developing, but I couldn't find the time to finish creating the language, and so this site was unfortunately abandoned as well.
 
-You can find the website 
+You can find the website live at https://canvas-vuetify.web.app/. 
 
 # Technologies
 
